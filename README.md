@@ -1,6 +1,9 @@
 # shoes-oneclick
 Shoes — 轻量化、高性能的代理服务框架优势
 
+一键脚本
+bash <(curl -fsSL https://raw.githubusercontent.com/cy6p/shoes-oneclick/refs/heads/main/shoes.sh)
+
 转自https://github.com/passeway/shoes
 
 https://github.com/passeway/shoes/blob/main/image.png
